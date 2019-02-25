@@ -1,0 +1,9 @@
+#user_homepage:
+#    path:     /
+#    defaults: { _controller: UserBundle:Default:index }
+#
+#
+#
+#admin_accueil:
+#    path:     /home
+#    defaults: { _controller: UserBundle:Admin:home  }
